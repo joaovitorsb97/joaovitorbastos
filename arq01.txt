@@ -1,7 +1,14 @@
 Lista de Compras
 Whisky 5lt
 Barra de Chocolate
+Leite condensado 200lt Gorduroso
+Fondue com whey
 Leite condensado 500ml
 Leite Ninho +1
+<<<<<<< HEAD
 Acai 700ml
 Carro 200km
+=======
+Acai
+>>>>>>> f727e89247124757111d21b87b757ec9ffd1d233
+>>>>>>> abad1f6ce9c7a71066a2922e6a6977a1cf014313
